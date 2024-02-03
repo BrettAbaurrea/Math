@@ -16,7 +16,7 @@ int main()
 
     std::cout << "How many flips? ";
     std::cin >> flipAmt;
-    std::cout << "Tossing.....\t bitch\n";
+    std::cout << "Tossing.....\t\n";
     do{
         int flip = (rand()%2);
         std::cout << flip;
